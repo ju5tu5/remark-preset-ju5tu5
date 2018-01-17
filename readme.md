@@ -1,6 +1,6 @@
-# remark-preset-wooorm [![Build Status][travis-badge]][travis]
+# remark-preset-ju5tu5 [![Build Status][travis-badge]][travis]
 
-My personal markdown (and prose) style.
+My personal markdown (and prose) style leaning heavily on remark-preset-wooorm by @wooorm.
 
 [Learn more about presets in unified’s docs][docs].
 

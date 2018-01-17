@@ -1,12 +1,12 @@
 {
-  "name": "remark-preset-wooorm",
+  "name": "remark-preset-ju5tu5",
   "version": "3.0.0",
   "description": "Personal markdown and prose style",
   "license": "MIT",
   "keywords": [
     "remark",
     "preset",
-    "wooorm"
+    "ju5tu5"
   ],
   "files": [
     "index.js"
@@ -62,11 +62,12 @@
     "retext-preset-wooorm": "^1.0.0",
     "unified": "^6.0.0"
   },
-  "repository": "https://github.com/wooorm/remark-preset-wooorm",
-  "bugs": "https://github.com/wooorm/remark-preset-wooorm/issues",
+  "repository": "https://github.com/ju5tu5/remark-preset-ju5tu5",
+  "bugs": "https://github.com/ju5tu5/remark-preset-ju5tu5/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
   "contributors": [
-    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+    "Justus Sturkenboom <justus@ju5tu5.nl> (http://ju5tu5.nl)"
   ],
   "devDependencies": {
     "remark-cli": "^4.0.0",
